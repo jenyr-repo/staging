@@ -4,5 +4,6 @@ public class Main{
         System.out.println("This is java program");
         System.out.println(new Date());
         System.out.println("This is a commit test");
+        System.out.println("This is a second commit test");
     }
 }
